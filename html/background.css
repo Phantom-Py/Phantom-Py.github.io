@@ -1,0 +1,12 @@
+body, html {
+    height: 100%;
+  }
+  
+  html { 
+    background: rgb(111,15,200);
+    background: linear-gradient(90deg, rgba(111,15,200,1) 0%, rgba(111,15,200,1) 35%, rgba(0,255,218,1) 100%);
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }

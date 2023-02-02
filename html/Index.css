@@ -1,0 +1,39 @@
+.Main-text{
+  color: black;
+  font-family: Trebuchet MS;
+  font-size: 15px;
+  
+  margin-left: 250px;
+
+}
+
+.MAIN-TEXT2{
+  font-family: Trebuchet MS;
+  font-size: 15px;
+  color: black;
+  font-style: normal;
+  font-weight: normal;
+  text-decoration: none;
+  
+  margin-left: 500px;
+
+}
+
+.leaderboardad{
+  font-family: Trebuchet MS;
+  text-decoration: none;
+  font-size: 15px;
+  color: black;
+  font-style: normal;
+  font-weight: bold;
+  
+  
+}
+
+.img1{
+  width: 100px;
+  height: 100px;
+  margin-left: 500px
+}
+
+  

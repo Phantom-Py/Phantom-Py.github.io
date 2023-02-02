@@ -1,0 +1,20 @@
+.Leaderboard{
+  font-family: Trebuchet MS;
+  font-style: None;
+  color: black;
+  font-weight: normal;
+  margin-left: 500px;
+}
+
+.LeaderboardH2{
+  padding-left: 35px;
+}
+
+.leaderboardtexthref{
+   
+  color: black;
+  font-style: normal;
+  font-weight: normal;
+  text-decoration: none;
+  font-size: large;
+}
